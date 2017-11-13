@@ -6,6 +6,7 @@ Performance Blog
 - [http://contentloaded.com/](http://contentloaded.com/)
 - [https://akshayranganath.github.io/sitemap/](https://akshayranganath.github.io/sitemap/)
 - [https://github.com/davidsonfellipe/awesome-wpo](https://github.com/davidsonfellipe/awesome-wpo)
+- [http://designingforperformance.com/](http://designingforperformance.com/)
 
 Must Read Once
 - [https://codeplanet.io/principles-good-restful-api-design/](https://codeplanet.io/principles-good-restful-api-design/)
